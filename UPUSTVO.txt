@@ -1,0 +1,7 @@
+Kako bi se aplikacija pokrenula potrebno je:
+
+promeniti putanju "private static final String LOCATION" unutar klase configuration.SpringMvcInitializer
+
+napraviti bazu podataka "portfolio" i u nju importovati tabele iz foldera "baza podataka\portfolio"
+
+prilagoditi OnlinePortfolio\src\main\resources\aplication.properties kreiranoj bazi
